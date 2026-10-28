@@ -1,0 +1,10 @@
+{
+  "name": "supreme",
+  "version": "1.0.0",
+  "description": "Workflow proporcional para planificar, implementar y verificar tareas completas.",
+  "author": {
+    "name": "Isaac / KROMBYTE"
+  },
+  "license": "MIT",
+  "skills": "./skills/"
+}

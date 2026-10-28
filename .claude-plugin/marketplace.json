@@ -1,0 +1,13 @@
+{
+  "name": "supreme-skills",
+  "owner": {
+    "name": "Isaac / KROMBYTE"
+  },
+  "plugins": [
+    {
+      "name": "supreme",
+      "source": "./",
+      "description": "Workflow proporcional para planificar, implementar y verificar tareas completas."
+    }
+  ]
+}
