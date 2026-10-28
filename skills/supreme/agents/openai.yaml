@@ -1,0 +1,4 @@
+interface:
+  display_name: "SUPREME"
+  short_description: "Workflow proporcional para planificar, implementar y verificar tareas completas."
+  default_prompt: "Usa $supreme para completar la tarea y verificar el resultado."
